@@ -6,10 +6,10 @@ import requests
 
 print("Initializing COVID-19 TWITTER BOT - Created by Alan Chuan")
 
-CONSUMER_KEY = 'umECAe1T1YsWYPYo7REVUPoTZ'
-CONSUMER_SECRET = 'gQ0iYaw44pEm7fTinRDvHsBUkbwL1t1x2aDfKwPWoE86wMr1fu'
-ACCESS_KEY = '1253203488957435905-n8CFqrhDT3AMDub78Xr2wswA0CLQjR'
-ACCESS_SECRET = 'wLGzf00h7ojBIvUuuNHsQgd3rnQCW6Etmv0yLNBvf3mKK'
+CONSUMER_KEY = 'xxxxx'
+CONSUMER_SECRET = 'xxxxx'
+ACCESS_KEY = 'xxxxx'
+ACCESS_SECRET = 'xxxxx'
 FILE_NAME = 'last_seen_id.txt'
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
